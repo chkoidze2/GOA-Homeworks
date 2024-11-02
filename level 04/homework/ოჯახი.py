@@ -1,10 +1,10 @@
-#ოჯახის წევრების ასაკები
+#family members age
+me = 18
 mother = 40
 father = 45
-me = 18
 
-#ასაკების ჯამი
+#total_age
 total_age = mother + father + me
 
 #print
-print("ოჯახის წევრების ასაკების ჯამი:", total_age)
+print("family members age:", total_age)
