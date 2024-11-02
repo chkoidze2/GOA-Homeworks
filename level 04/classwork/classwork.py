@@ -22,7 +22,7 @@ flt5 = 1.11
 
 print(flt1 , flt2 , flt3 , flt4 , flt5)
 
-#მიმატება
+#plus
 plus1 = 21+5
 plus2 = 12+4
 plus3 = 43+7
@@ -31,7 +31,7 @@ plus5 = 22+1
 
 print(plus1 , plus2 , plus3 , plus4 , plus5)
 
-#გამოკლება 
+#deductions 
 deduc1 = 5-2
 deduc2 = 122-22
 deduc3 = 98-2
@@ -40,7 +40,7 @@ deduc5 = 12-8
 
 print(deduc1 , deduc2 , deduc3 , deduc4 , deduc5)
 
-#გამრავლება 
+#multiplication
 multip1 = 5*5
 multip2 = 9*4
 multip3 = 7*7
@@ -49,30 +49,29 @@ multipl5 = 12*12
 
 print(multip1 , multip2 , multip3 , multip4 , multipl5)
 
-#გაყოფა
-g1 =  12/3
-g2 = 36/3
-g3 =  12/12
-g4 = 49/7
-g5 =  21/3
+#division
+d1 =  12/3
+d2 = 36/3
+d3 =  12/12
+d4 =  21/3
 
-print(g1 , g2 , g3 , g4 , g5)
+print(d1 , d2 , d3 , d4 ,d4)
 
-#ნაშთი
-n1 = 12%5
-n2 = 12%11
-n3 = 11%9
-n4 = 49%8
-n5 = 21%2
+#Residual
+r1 = 12%5
+r2 = 12%11
+r3 = 11%9
+r4 = 49%8
+r5 = 21%2
 
-print (n1 , n2 , n3, n4, n5)
+print (r1 , r2 , r3, r4, r5)
 
-#ხარისხი
-Exponent1 = 2 ** 3
-Exponent2 = 5 ** 2
-Exponent3 = 10 ** 3
-Exponent4 = 7.5 ** 2
-Exponent5 = -5 ** 3
+#Exponent
+Ex1 = 2 ** 3
+Ex2 = 5 ** 2
+Ex3 = 10 ** 3
+Ex4 = 7.5 ** 2
+Ex5 = -5 ** 3
 
-print(Exponent1 , Exponent2 , Exponent3 , Exponent4 , Exponent5)
+print(Ex1 , Ex2 , Ex3 , Ex4 , Ex5)
 
