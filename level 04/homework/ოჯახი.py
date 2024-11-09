@@ -7,4 +7,4 @@ father = 45
 total_age = mother + father + me
 
 #print
-print("family members age:", total_age)
+print("family members total age:", total_age)
